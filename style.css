@@ -1,0 +1,46 @@
+/* navbar started */
+#logo {
+    width: 145px;
+}
+#nav-items {
+    font-size: 1.6rem;
+}
+#navbar {
+    margin: 10px 80px;
+}
+#franchise-btn {
+    background-color: transparent;
+    padding: 12px 16px;
+}
+#online-btn {
+    padding: 12px 16px;
+    border: 0px;
+}
+#order-span {
+    padding: 5px 8px;
+    border-radius: 20px;
+}
+/* navbar ended */
+#carousel {
+    width: 100%;
+}
+p {
+    color: #ffffff;
+    font-size: 16px;
+}
+h2 {
+    color: #ffffff;
+    font-size: 40px
+}
+span.logo-text-hold{
+    font-family: 'futurak';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 62px;
+    color: #ffffff;
+}
+@font-face {
+    font-family: 'futurak';
+    src: url(./fonts/futurak.ttf);
+}
